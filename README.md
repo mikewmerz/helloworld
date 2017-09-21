@@ -1,13 +1,16 @@
-# helloworld
-First GitHub
+# HelloWorld
 
-## Markdown Stuff
+Adding nodestuff.
 
-1. Thing  
-2. Stuff
+## Goals
+
+1. Create repo for testing node.js
+2. Practice Branching
+3. Auto-create changelogs
+
 
 ```code
 
-Thing?
+More to add later.
 
 ```
